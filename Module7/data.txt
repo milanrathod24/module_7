@@ -1,0 +1,2 @@
+Welcome to PHP File Handling.
+This content is read from a text file.
